@@ -5,6 +5,7 @@
 ## 原理如下
  首先，在程序运行之初就写入一部分内容，便于以后继续写
  自动写入内容如下
+![](https://raw.githubusercontent.com/w1109790800/check-md5/master/2.jpg)
  ```python
  import os 
 import math 
@@ -24,3 +25,4 @@ if __name__ == "__main__":
  Python XXX.py
 ```
 这个命令了
+![](https://raw.githubusercontent.com/w1109790800/check-md5/master/1.jpg)
